@@ -1,0 +1,188 @@
+{
+    "processed_files": [
+        "session_results_Australia.csv"
+    ],
+    "standings": {
+        "DentistGus": {
+            "points": 25,
+            "team": "Red Bull",
+            "races": 1,
+            "wins": 1,
+            "history": [
+                25
+            ]
+        },
+        "Chiumms": {
+            "points": 18,
+            "team": "Mercedes-AMG Petronas",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                18
+            ]
+        },
+        "Andrea Kimi ANTONELLI": {
+            "points": 15,
+            "team": "Mercedes-AMG Petronas",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                15
+            ]
+        },
+        "Yuki TSUNODA": {
+            "points": 12,
+            "team": "Red Bull",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                12
+            ]
+        },
+        "Charles LECLERC": {
+            "points": 10,
+            "team": "Scuderia Ferrari HP",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                10
+            ]
+        },
+        "Lando NORRIS": {
+            "points": 8,
+            "team": "McLaren",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                8
+            ]
+        },
+        "Carlos SAINZ": {
+            "points": 6,
+            "team": "Williams",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                6
+            ]
+        },
+        "Oscar PIASTRI": {
+            "points": 4,
+            "team": "McLaren",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                4
+            ]
+        },
+        "Gabriel BORTOLETO": {
+            "points": 2,
+            "team": "KICK Sauber",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                2
+            ]
+        },
+        "Fernando ALONSO": {
+            "points": 1,
+            "team": "Aston Martin",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                1
+            ]
+        },
+        "Alexander ALBON": {
+            "points": 0,
+            "team": "Williams",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Pierre GASLY": {
+            "points": 0,
+            "team": "Alpine",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Esteban OCON": {
+            "points": 0,
+            "team": "Haas",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Oliver BEARMAN": {
+            "points": 0,
+            "team": "Haas",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Liam LAWSON": {
+            "points": 0,
+            "team": "Visa Cash App Racing Bulls",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Nico HULKENBERG": {
+            "points": 0,
+            "team": "KICK Sauber",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Isack HADJAR": {
+            "points": 0,
+            "team": "Visa Cash App Racing Bulls",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Frolla": {
+            "points": 0,
+            "team": "Scuderia Ferrari HP",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Franco COLAPINTO": {
+            "points": 0,
+            "team": "Alpine",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        },
+        "Lance STROLL": {
+            "points": 0,
+            "team": "Aston Martin",
+            "races": 1,
+            "wins": 0,
+            "history": [
+                0
+            ]
+        }
+    },
+    "race_count": 1
+}
