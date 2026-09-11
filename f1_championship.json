@@ -13,13 +13,14 @@
         "session_results_Austria.csv",
         "session_results_Silverstone.csv",
         "session_results_Belgio.csv",
-        "session_results_Ungheria.csv"
+        "session_results_Ungheria.csv",
+        "session_results_Olanda.csv"
     ],
     "standings": {
         "Benito CERVONE": {
-            "points": 267,
+            "points": 285,
             "team": "Red Bull",
-            "races": 14,
+            "races": 15,
             "wins": 8,
             "history": [
                 25,
@@ -35,13 +36,14 @@
                 25,
                 25,
                 6,
-                15
+                15,
+                18
             ]
         },
         "Matteo APERUTA": {
-            "points": 164,
+            "points": 168,
             "team": "Mercedes-AMG Petronas",
-            "races": 14,
+            "races": 15,
             "wins": 1,
             "history": [
                 18,
@@ -57,13 +59,14 @@
                 18,
                 0,
                 0,
-                0
+                0,
+                4
             ]
         },
         "Andrea Kimi ANTONELLI": {
-            "points": 110,
+            "points": 116,
             "team": "Mercedes-AMG Petronas",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 15,
@@ -79,14 +82,15 @@
                 4,
                 12,
                 4,
-                0
+                0,
+                6
             ]
         },
         "Max VERSTAPPEN": {
-            "points": 158,
+            "points": 183,
             "team": "Red Bull",
-            "races": 14,
-            "wins": 3,
+            "races": 15,
+            "wins": 4,
             "history": [
                 12,
                 0,
@@ -101,13 +105,14 @@
                 15,
                 4,
                 25,
+                25,
                 25
             ]
         },
         "Charles LECLERC": {
             "points": 94,
             "team": "Scuderia Ferrari HP",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 10,
@@ -123,13 +128,14 @@
                 10,
                 0,
                 10,
-                4
+                4,
+                0
             ]
         },
         "Lando NORRIS": {
-            "points": 173,
+            "points": 188,
             "team": "McLaren",
-            "races": 14,
+            "races": 15,
             "wins": 1,
             "history": [
                 8,
@@ -145,13 +151,14 @@
                 2,
                 18,
                 18,
-                18
+                18,
+                15
             ]
         },
         "Carlos SAINZ": {
-            "points": 20,
+            "points": 22,
             "team": "Williams",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 6,
@@ -167,13 +174,14 @@
                 0,
                 0,
                 0,
-                6
+                6,
+                2
             ]
         },
         "Oscar PIASTRI": {
-            "points": 149,
+            "points": 161,
             "team": "McLaren",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 4,
@@ -189,17 +197,19 @@
                 12,
                 15,
                 12,
+                12,
                 12
             ]
         },
         "Gabriel BORTOLETO": {
             "points": 14,
             "team": "KICK Sauber",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 2,
                 12,
+                0,
                 0,
                 0,
                 0,
@@ -215,9 +225,9 @@
             ]
         },
         "Fernando ALONSO": {
-            "points": 92,
+            "points": 100,
             "team": "Aston Martin",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 1,
@@ -233,13 +243,14 @@
                 8,
                 8,
                 8,
-                10
+                10,
+                8
             ]
         },
         "Alexander ALBON": {
-            "points": 8,
+            "points": 9,
             "team": "Williams",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 0,
@@ -255,13 +266,14 @@
                 0,
                 0,
                 0,
+                1,
                 1
             ]
         },
         "Pierre GASLY": {
             "points": 15,
             "team": "Alpine",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 0,
@@ -277,13 +289,14 @@
                 0,
                 6,
                 1,
-                2
+                2,
+                0
             ]
         },
         "Esteban OCON": {
             "points": 13,
             "team": "Haas",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 0,
@@ -299,13 +312,14 @@
                 0,
                 1,
                 2,
-                8
+                8,
+                0
             ]
         },
         "Oliver BEARMAN": {
             "points": 6,
             "team": "Haas",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 0,
@@ -321,15 +335,17 @@
                 0,
                 0,
                 0,
+                0,
                 0
             ]
         },
         "Liam LAWSON": {
             "points": 0,
             "team": "Visa Cash App Racing Bulls",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
+                0,
                 0,
                 0,
                 0,
@@ -349,7 +365,7 @@
         "Nico HULKENBERG": {
             "points": 9,
             "team": "KICK Sauber",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 0,
@@ -365,15 +381,17 @@
                 1,
                 0,
                 0,
+                0,
                 0
             ]
         },
         "Isack HADJAR": {
             "points": 0,
             "team": "Visa Cash App Racing Bulls",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
+                0,
                 0,
                 0,
                 0,
@@ -391,9 +409,9 @@
             ]
         },
         "Giovanni LIGUORI": {
-            "points": 113,
+            "points": 123,
             "team": "Scuderia Ferrari HP",
-            "races": 14,
+            "races": 15,
             "wins": 1,
             "history": [
                 0,
@@ -409,13 +427,14 @@
                 6,
                 10,
                 15,
-                0
+                0,
+                10
             ]
         },
         "Franco COLAPINTO": {
             "points": 9,
             "team": "Alpine",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
                 0,
@@ -431,15 +450,17 @@
                 0,
                 2,
                 0,
+                0,
                 0
             ]
         },
         "Lance STROLL": {
             "points": 0,
             "team": "Aston Martin",
-            "races": 14,
+            "races": 15,
             "wins": 0,
             "history": [
+                0,
                 0,
                 0,
                 0,
@@ -457,5 +478,5 @@
             ]
         }
     },
-    "race_count": 14
+    "race_count": 15
 }
